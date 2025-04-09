@@ -1,0 +1,10 @@
+{
+    "name": "htdocs/student-learning-platform",
+    "description": "yes",
+    "autoload": {
+        "psr-4": {
+            "Htdocs\\StudentLearningPlatform\\": "src/"
+        }
+    },
+    "require": {}
+}
